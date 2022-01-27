@@ -1,0 +1,17 @@
+.work-space {
+  width: 75vw;
+  max-width: 400px;
+  min-width: 300px;
+  height: 100%;
+  margin: 0 auto;
+  background-color: #f0e3dc;
+  padding: 20px;
+  border-radius: 5%;
+  box-sizing: border-box;
+  box-shadow: 3px 3px 15px 0 #43434385;
+}
+
+.work-space h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
